@@ -16,6 +16,7 @@ a {
     text-decoration: none;
 }
 
-#twitter-widget-0 { 
+.timeline-Widget { 
     width: 100% !important; 
+    max-width: none !important;
 }
