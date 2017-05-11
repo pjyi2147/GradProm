@@ -1,0 +1,14 @@
+iframe[id^='twitter-widget-0'] {
+    height:94% !important;
+    margin-bottom:0px !important;
+    width:100% !important;
+    max-width: none !important;
+}
+
+p {
+    margin: 3px 0px 0px 0px;
+}
+
+#twitter-widget-0 { 
+    width: 100% !important; 
+}
