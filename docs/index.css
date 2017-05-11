@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Lobster|PT+Sans');
+
 iframe[id^='twitter-widget-0'] {
     height:94% !important;
     margin-bottom:0px !important;
@@ -7,6 +9,11 @@ iframe[id^='twitter-widget-0'] {
 
 p {
     margin: 3px 0px 0px 0px;
+    font-family: 'PT-Sans';
+}
+
+a {
+    text-decoration: none;
 }
 
 #twitter-widget-0 { 
